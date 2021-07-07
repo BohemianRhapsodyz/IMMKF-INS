@@ -10,3 +10,6 @@
 ## Acknowledgement
 
   - IMMKF-INS is based on the PSINS Matlab toolbox developed by Prof.Gongmin Yan of Northwestern Polytechnical University.
+
+![Alt text](https://github.com/BohemianRhapsodyz/IMMKF-INS/blob/main/pic/IMM.jpg)
+![Alt text](https://github.com/BohemianRhapsodyz/IMMKF-INS/blob/main/pic/error.jpg)
